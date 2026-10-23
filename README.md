@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://fabricio-seven.vercel.app/"><img src="assets/header.svg" width="100%" alt="Fabrício Brito — desenvolvedor full-stack com direção visual"></a>
+  <a href="https://fabriciobr-portfolio.netlify.app/"><img src="assets/header.svg" width="100%" alt="Fabrício Brito — desenvolvedor full-stack com direção visual"></a>
 </p>
 
 <p align="center">
@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://fabricio-seven.vercel.app/"><img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio"></a>
+  <a href="https://fabriciobr-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfólio-00AD9F?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfólio"></a>
   <a href="https://www.linkedin.com/in/fabricio-brito-3955322bb/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:fabriciobrito856@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
   <a href="https://wa.me/5571982668648"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
@@ -38,7 +38,7 @@ Meu jeito de trabalhar: **o que dá para decidir vira regra explícita e testada
 - **Vazk Club** — app mobile de conexões e negócios entre membros, com QR Code, gamificação e sincronização em tempo real (React Native + Supabase).
 - **Dozer** e **Escada da IA** — diagnósticos ao vivo que combinam motor de regras e IA limitada por regras, com fila offline, painel de turma e PDF.
 
-Mais casos, laboratório e portfólios de clientes em **[fabricio-seven.vercel.app](https://fabricio-seven.vercel.app/)**.
+Mais casos, laboratório e portfólios de clientes em **[fabriciobr-portfolio.netlify.app](https://fabriciobr-portfolio.netlify.app/)**.
 
 ## Stack
 
