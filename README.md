@@ -1,4 +1,6 @@
-<h1 align="center">Fabrício Brito</h1>
+<p align="center">
+  <a href="https://fabricio-seven.vercel.app/"><img src="assets/header.svg" width="100%" alt="Fabrício Brito — desenvolvedor full-stack com direção visual"></a>
+</p>
 
 <p align="center">
   <b>Desenvolvedor Full-Stack com Direção Visual</b><br>
@@ -76,7 +78,7 @@ Mais casos, laboratório e portfólios de clientes em **[fabricio-seven.vercel.a
 4. **Testes** — regras puras testadas sem rede, sem banco e sem modelo.
 5. **Publicação** — verificação automática antes de ir ao ar e conferência do que o site realmente serve depois.
 
----
+<img src="assets/footer.svg" width="100%" alt="Faixa animada com a stack: React, TypeScript, React Native, Node.js, Fastify, PostgreSQL, Supabase, AWS, Docker, WebGL, Three.js, n8n, Claude e Gemini">
 
 <p align="center">
   🇧🇷 Português (nativo) · 🇺🇸 Inglês (básico) · 🇪🇸 Espanhol (em andamento)<br>
